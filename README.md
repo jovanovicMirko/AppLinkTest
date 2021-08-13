@@ -5,6 +5,8 @@
 * [Bank/Deposit](https://staging.seven-web.7platform.net/player/deposit)
 * [Bank/Transactions](https://staging.seven-web.7platform.net/player/transactions)
 * [Bank/Withdrawal](https://staging.seven-web.7platform.net/player/withdrawal)
+* [Casino](https://staging.seven-web.7platform.net/casino)
+* [Live Casino](https://staging.seven-web.7platform.net/live-casino)
 * [BetGamesTV](https://staging.seven-web.7platform.net/betgamestv)
 * [Greyhound](https://staging.seven-web.7platform.net/greyhound)
 * [Greyhound](https://staging.seven-web.7platform.net/vgreyhound-v2)
