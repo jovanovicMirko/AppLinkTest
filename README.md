@@ -1,6 +1,8 @@
 # AppLinkTest
 
 * [Home](https://staging.seven-web.7platform.net/games)
+* [Register](https://staging.seven-web.7platform.net/register)
+* [Register](https://staging.seven-web.7platform.net/player/register)
 * [Bank/Accounts](https://staging.seven-web.7platform.net/player/bank-accounts)
 * [Bank/Deposit](https://staging.seven-web.7platform.net/player/deposit)
 * [Bank/Transactions](https://staging.seven-web.7platform.net/player/transactions)
