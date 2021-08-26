@@ -40,5 +40,3 @@
 * [Ticket check - T12345](https://staging.seven-web.7platform.net/sm-prematch?ticket=T12345)
 * [http Easter egg](http://staging.seven-web.7platform.net/vlado)
 * [https Easter egg](https://staging.seven-web.7platform.net/vlado)
-
-* [prvafirma://vlado](prvafirma://vlado)
